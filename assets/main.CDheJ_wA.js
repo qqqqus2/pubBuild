@@ -33,7 +33,7 @@
           <div class="bottom-fixed">
             <div class="btn-wrap">
               <div class="flex">
-                <router-link to="/" class="btn btn-primary">
+                <router-link to="/pubList" class="btn btn-primary">
                   퍼블 리스트 페이지 이동
                 </router-link>
               </div>
